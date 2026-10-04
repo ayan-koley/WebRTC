@@ -462,12 +462,3 @@ Don't record inside the SFU process. Create a `PlainTransport` + `consume` on th
 6. **Later:** Recording, pipe-to-router for large rooms, TWCC tuning.
 
 ---
-
-## 13. Alternatives
-
-| Option | Pick it if |
-| --- | --- |
-| **mediasoup** (this doc) | You want a library and full control of signaling/architecture |
-| **LiveKit** (Go, Pion) | You want a batteries-included server with SDKs, built-in scaling |
-| **Janus** | You want a C plugin-based gateway |
-| **Pion** (Go) | You want to write the SFU from scratch in Go |
