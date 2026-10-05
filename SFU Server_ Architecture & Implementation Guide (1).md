@@ -18,6 +18,8 @@ The SFU's real value: **simulcast / SVC**. Each sender uploads several quality l
 
 ---
 
+
+
 ## 2. High-level architecture
  
 ```mermaid
