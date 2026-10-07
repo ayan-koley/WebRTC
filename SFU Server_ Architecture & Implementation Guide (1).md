@@ -16,10 +16,6 @@ A **Selective Forwarding Unit** receives each participant's media once and forwa
 
 The SFU's real value: **simulcast / SVC**. Each sender uploads several quality layers, and the SFU picks the right layer per receiver based on their bandwidth.
 
----
-
-
-
 ## 2. High-level architecture
  
 ```mermaid
